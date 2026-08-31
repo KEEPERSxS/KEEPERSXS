@@ -1,4 +1,4 @@
-<img width="1220" height="580" alt="1000033762" src="https://github.com/user-attachments/assets/04882c8d-cbe5-4701-9ca1-6596eec269d1" />
+<img width="1220" height="580" alt="1000033803" src="https://github.com/user-attachments/assets/3df77224-0796-41a2-881a-dc9e494e9fca" />
 <h2 align="center"><a href="https://t.me/TemplexKeeper">⊹ ࣪ 𝗜𝗡𝗙𝗢 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠⊹ ࣪ ˖</a>
 <h2 align="left"><a></a>⊹ ࣪ ⊹ ࣪"𝕀𝕗 𝕪𝕠𝕦 𝕝𝕠𝕠𝕜 𝕝𝕠𝕟𝕘 𝕚𝕟𝕥𝕠 𝕒𝕟 𝕒𝕓𝕪𝕤𝕤, 𝕥𝕙𝕖 𝕒𝕓𝕪𝕤𝕤 𝕝𝕠𝕠𝕜𝕤 𝕚𝕟𝕥𝕠 𝕪𝕠𝕦. ˖</a>
 <h2 align="right"><a></a>⊹ ࣪ ⊹ ࣪"«Еᴄᴧи хᴏчᴇɯь ᴨᴏбᴇдиᴛь ʙᴇᴄь ʍиᴩ, ᴨᴏбᴇди ᴄᴇбя». ˖</a>
