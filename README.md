@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Spotify-Monetochka-CED1DE?style=for-the-badge&logo=spotify&logoColor=black" />
 </p>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andrei-c/andrei-c/main/assets/line.gif" width="100%" alt="Pixel B&W Line">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85150991/124970425-450eb902-140b-11ec-8869-7c188b3f81e7.gif" width="100%" alt="White Pulse Line">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Line">
 </p>
