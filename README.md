@@ -5,7 +5,7 @@
 <h4 align="center"><a></a>⊹ ࣪ ⊹ ࣪"I'm writing desing of this account on GitHub, it won't be done anytime soon. ˖</a>
 <h2 align="center">привет смотрящим,Я в процессе делаю гитхаб.Внизу я перебираю то,что пойдет в оформление.<img width="30" height="30" alt="1000033943" src="https://github.com/user-attachments/assets/fc407e26-e70d-452e-8869-144af83a302e"<style="vertical-align: middle;" />
   
-![Profile Views](https://komarev.com/ghpvc/?username=KEEPERSXS&color=gray)
+![Profile Views](https://komarev.com/ghpvc/?username=KEEPERSXS&color=blue)
 
 <p align="center">
   <img src="https://img.shields.io/badge/MBTI-E/INFP--T-CED1DE?style=for-the-badge&logoColor=black" />
