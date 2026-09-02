@@ -5,3 +5,9 @@
 <h4 align="center"><a></a>⊹ ࣪ ⊹ ࣪"I'm writing desing of this account on GitHub, it won't be done anytime soon. ˖</a>
   
 ![Profile Views](https://komarev.com/ghpvc/?username=KEEPERSXS&color=gray)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MBTI-E/INFP--T-CED1DE?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gacha_game-HSR-CED1DE?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spotify-Monetochka-CED1DE?style=for-the-badge&logo=spotify&logoColor=black" />
+</p>
