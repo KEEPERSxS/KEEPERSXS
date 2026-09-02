@@ -3,7 +3,7 @@
 <h2 align="left"><a></a>⊹ ࣪ ⊹ ࣪"𝕀𝕗 𝕪𝕠𝕦 𝕝𝕠𝕠𝕜 𝕝𝕠𝕟𝕘 𝕚𝕟𝕥𝕠 𝕒𝕟 𝕒𝕓𝕪𝕤𝕤, 𝕥𝕙𝕖 𝕒𝕓𝕪𝕤𝕤 𝕝𝕠𝕠𝕜𝕤 𝕚𝕟𝕥𝕠 𝕪𝕠𝕦. ˖</a>
 <h2 align="right"><a></a>⊹ ࣪ ⊹ ࣪"«Еᴄᴧи хᴏчᴇɯь ᴨᴏбᴇдиᴛь ʙᴇᴄь ʍиᴩ, ᴨᴏбᴇди ᴄᴇбя». ˖</a>
 <h4 align="center"><a></a>⊹ ࣪ ⊹ ࣪"I'm writing desing of this account on GitHub, it won't be done anytime soon. ˖</a>
-<h4 align="center">привет смотрящим,Я в процессе делаю гитхаб.Внизу я перебираю то,что пойдет в оформление.
+<h2 align="center">привет смотрящим,Я в процессе делаю гитхаб.Внизу я перебираю то,что пойдет в оформление.<img width="30" height="30" alt="1000033943" src="https://github.com/user-attachments/assets/fc407e26-e70d-452e-8869-144af83a302e"<style="vertical-align: middle;" />
   
 ![Profile Views](https://komarev.com/ghpvc/?username=KEEPERSXS&color=gray)
 
@@ -17,3 +17,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Line">
 </p>
+/
