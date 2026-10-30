@@ -1,4 +1,4 @@
-<img width="1320" height="680" alt="1000035025" src="https://github.com/user-attachments/assets/d05595b3-7b99-44e3-919c-35e525e217cd" />
+<img width="1320" height="680" alt="1000039158" src="https://github.com/user-attachments/assets/dbb7f2cd-ad1d-4613-991f-91ed5b92ff93" />
 <h2 align="center"><a href="https://t.me/keepeinfo">⊹ ࣪ 𝑰𝑵𝑭𝑶『𝑻𝑬𝑳𝑬𝑮𝑹𝑨𝑴』⊹ ࣪ ˖</a>
 <h2 align="left"><a></a>⊹ ࣪ ⊹ ࣪"𝕀𝕗 𝕪𝕠𝕦 𝕝𝕠𝕠𝕜 𝕝𝕠𝕟𝕘 𝕚𝕟𝕥𝕠 𝕒𝕟 𝕒𝕓𝕪𝕤𝕤, 𝕥𝕙𝕖 𝕒𝕓𝕪𝕤𝕤 𝕝𝕠𝕠𝕜𝕤 𝕚𝕟𝕥𝕠 𝕪𝕠𝕦. ˖</a>
 <h2 align="right"><a></a>⊹ ࣪ ⊹ ࣪"«Еᴄᴧи хᴏчᴇɯь ᴨᴏбᴇдиᴛь ʙᴇᴄь ʍиᴩ, ᴨᴏбᴇди ᴄᴇбя». ˖</a>
@@ -19,4 +19,3 @@
 </p>
 /
 
-<img width="1320" height="680" alt="1000039158" src="https://github.com/user-attachments/assets/dbb7f2cd-ad1d-4613-991f-91ed5b92ff93" />
